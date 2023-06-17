@@ -1,0 +1,7 @@
+[package]
+name = "protostar"
+version = "0.13.0"
+
+[dependencies]
+main.cairo = {path = "main.cairo"}
+erc20.cairo = {path = "erc20.cairo"}
